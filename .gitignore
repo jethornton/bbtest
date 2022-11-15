@@ -1,0 +1,4 @@
+bbtest/debian/.debhelper/*
+bbtest/debian/howdy
+bbtest/debian/howdy.*
+bbtest/debian/deb*
